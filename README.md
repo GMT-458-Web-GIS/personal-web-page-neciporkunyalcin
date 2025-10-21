@@ -36,4 +36,5 @@ This project is a personal Web GIS portfolio page prepared for the GMT 458 cours
 3. SVG Usage
 
 ### Estimated AI Usage Time
-- **Total Time:** Approximately 1 hours
+
+- **Total Time:** Approximately 1 hour
