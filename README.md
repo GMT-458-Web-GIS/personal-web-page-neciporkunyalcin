@@ -38,3 +38,6 @@ This project is a personal Web GIS portfolio page prepared for the GMT 458 cours
 ### Estimated AI Usage Time
 
 - **Total Time:** Approximately 1 hour
+### Link
+- https://gmt-458-web-gis.github.io/personal-web-page-neciporkunyalcin/
+
